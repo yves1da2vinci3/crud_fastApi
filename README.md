@@ -36,5 +36,3 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-The message "Project connected to the MongoDB database!" muts appear if everything is right. From this point, one can use the Swagger documentation to test the API and MongoDB Compass to visualize the collections and documents. 
-More information can be found at <a href="https://naomy-gomes.medium.com/crud-with-python-fastapi-and-mongodb-e830c6c538f4">my Medium article</a>.
